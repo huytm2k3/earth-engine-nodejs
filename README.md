@@ -1,3 +1,5 @@
+This repository is under maintenance from https://github.com/c11/EEnode-demo continuously
+
 # EEnode-demo
 NodeJS(Express) website demos: Google Earth Engine connection and indicator retrieving !
 
